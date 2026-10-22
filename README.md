@@ -1,7 +1,7 @@
 Hasil CSS Internal:
 
 (Tambahkan gambar screenshot penambahan Internal CSS di sini)
-![Internal CSS](path_gambar_kamu)
+![Internal CSS](dokumen1)
 
 3. Menambahkan Inline CSS
 

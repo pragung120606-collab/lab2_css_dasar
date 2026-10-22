@@ -11,7 +11,7 @@ Menambahkan atribut style secara langsung pada tag paragraf <p> untuk mengubah t
 
 Hasil Inline CSS:
 
-![Inline CSS](path_gambar_kamu)
+![Inline CSS](ss2.png)
 
 4. Membuat dan Menyisipkan CSS Eksternal (style_eksternal.css)
 
@@ -42,8 +42,7 @@ Pemanggilan di HTML:
 
 Hasil Eksternal CSS:
 
-(Tambahkan gambar screenshot penerapan Eksternal CSS di sini)
-![Eksternal CSS](path_gambar_kamu)
+![Eksternal CSS](ss3.png)
 
 5. Menambahkan CSS ID dan Class Selector
 
@@ -79,4 +78,4 @@ Menambahkan gaya untuk kontainer ID #intro serta Class .button dan .btn-primary 
 Hasil Akhir Praktikum:
 
 (Tambahkan gambar screenshot hasil akhir di sini)
-![Hasil Akhir](path_gambar_kamu)
+![Hasil Akhir](ss4.png)

@@ -1,7 +1,6 @@
 Hasil CSS Internal:
 
-(Tambahkan gambar screenshot penambahan Internal CSS di sini)
-![Internal CSS](dokumen1)
+![Internal CSS](ss1.png)
 
 3. Menambahkan Inline CSS
 
@@ -12,7 +11,6 @@ Menambahkan atribut style secara langsung pada tag paragraf <p> untuk mengubah t
 
 Hasil Inline CSS:
 
-(Tambahkan gambar screenshot penambahan Inline CSS di sini)
 ![Inline CSS](path_gambar_kamu)
 
 4. Membuat dan Menyisipkan CSS Eksternal (style_eksternal.css)

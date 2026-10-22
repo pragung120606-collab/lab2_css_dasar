@@ -77,5 +77,4 @@ Menambahkan gaya untuk kontainer ID #intro serta Class .button dan .btn-primary 
 
 Hasil Akhir Praktikum:
 
-(Tambahkan gambar screenshot hasil akhir di sini)
 ![Hasil Akhir](ss4.png)
